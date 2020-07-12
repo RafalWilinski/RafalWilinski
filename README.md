@@ -1,4 +1,4 @@
-### Hi, I'm Rafal 👋
+### Hi, I'm Rafal  👋
 
 😎 Co-Founder of [Dynobase](https://dynobase.dev) <br />
 ⚡️ Serverless Engineer @ [Stedi](https://stedi.com) <br />
