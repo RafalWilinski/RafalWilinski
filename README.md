@@ -1,6 +1,6 @@
 ### Hi, I'm Rafal  👋
 
-😎 Co-Founder of [Dynobase](https://dynobase.com) <br />
+😎 Co-Founder of [Dynobase](https://dynobase.dev) <br />
 ⚡️ Serverless Engineer @ [Stedi](https://stedi.com) <br />
 🇵🇱 Living in Poznan, Poland
 
