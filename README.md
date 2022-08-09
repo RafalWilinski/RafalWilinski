@@ -1,10 +1,9 @@
 ### Hi, I'm Rafal  👋
 
-😎 Co-Founder of [Dynobase](https://dynobase.dev) <br />
-⚡️ Serverless Engineer @ [Stedi](https://stedi.com) <br />
+😎 Founder of [Dynobase](https://dynobase.dev) <br />
 🇵🇱 Living in Poznan, Poland
 
-I build **Serverless** and Cloud-native solutions.
+I build **Serverless** solutions using Amazon Web Services.
 
 ### Find me elsewhere 🌍
 
