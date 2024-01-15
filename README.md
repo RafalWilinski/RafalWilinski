@@ -1,6 +1,6 @@
 ### Hi, I'm Rafal  👋
 
-🦾 AI Lead @ [Vendr](https://vendr.com)
+🦾 AI Lead @ [Vendr](https://vendr.com) <br />
 😎 Founder of [Dynobase](https://dynobase.dev) & [ChatWithCloud](https://ChatWithCloud.ai/) - CLI that lets you speak to your AWS cloud using human language <br />
 🇵🇱 Living in Poznan, Poland
 
