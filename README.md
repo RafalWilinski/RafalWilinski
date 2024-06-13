@@ -6,6 +6,7 @@
 
 ### Find me elsewhere 🌍
 
+🏡 [My blog](https://rwilinski.ai) <br />
 🐦 [Twitter](https://twitter.com/RafalWilinski)  <br />
 📸 [Instagram](https://instagram.com/rwilinski)  <br />
 👔 [Linkedin](https://www.linkedin.com/in/rafwilinski/)
