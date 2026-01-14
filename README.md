@@ -1,7 +1,7 @@
 ### Hi, I'm Rafal  👋
 
-- Founder of [Dynobase](https://dynobase.dev) & Independent Gen AI Consultant
 - Founding Engineer @ [Runlayer](https://runlayer.com)
+- Founder of [Dynobase](https://dynobase.dev) & Gen AI Consultant
 - ex-Tech Lead @ [Zapier](https://zapier.com/agents) Agents
 - Living in Poznan, Poland
 
